@@ -1,3 +1,6 @@
+# directory for saved model (cse590)
+training-args-openai-community/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
